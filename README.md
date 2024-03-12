@@ -13,4 +13,15 @@ Arrays
 -  Search
 -  Copy
 
+<br>
+
+<u><b>week 05</b></u>
+<br>
+Methods
+- Input and outputs
+- Syntax
+- Declaration and use
+- Variables and constants scope
+- Overloading
+
 

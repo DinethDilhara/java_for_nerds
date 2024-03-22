@@ -16,7 +16,8 @@ Arrays
 <br>
 
 2D Arrays
--Declaration
+
+- Declaration
 
 
 <br>

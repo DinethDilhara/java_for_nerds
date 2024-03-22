@@ -15,6 +15,12 @@ Arrays
 
 <br>
 
+2D Arrays
+-Declaration
+
+
+<br>
+
 <u><b>week 05</b></u>
 <br>
 Methods

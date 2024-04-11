@@ -5,7 +5,7 @@
 <u><b>week 04</b></u>
 <br>
 Arrays
--  Declaration
+-  Declaration 
 -  Indices
 -  Access 
 -  Length

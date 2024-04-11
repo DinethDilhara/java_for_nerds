@@ -8,7 +8,7 @@ Arrays
 -  Declaration 
 -  Indices
 -  Access 
--  Length
+-  Length 
 -  Enhanced loop
 -  Search
 -  Copy
